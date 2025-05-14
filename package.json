@@ -10,7 +10,16 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cheerio": "^1.0.0",
-    "request": "^2.88.2"
-  }
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertombundi/webscraping.git"
+  },
+  "bugs": {
+    "url": "https://github.com/albertombundi/webscraping/issues"
+  },
+  "homepage": "https://github.com/albertombundi/webscraping#readme"
 }
